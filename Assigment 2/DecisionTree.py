@@ -1,11 +1,4 @@
 
-#************************************************************************************
-# Nhu Nguyen
-# EE5321 – HW#2 - Decision Tree model
-# Filename: Nhu_Nguyen_DecisionTree.py
-# Due: 9/23/20
-##************************************************************************************
-
 
 #imports for the program
 import pandas as pd 
